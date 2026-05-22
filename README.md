@@ -45,7 +45,6 @@
 ## 📁 파일 구조
 
 ```
-squat-ai-coach/
 ├── 최종.ipynb
 ├── realtime.py
 ├── requirements.txt
