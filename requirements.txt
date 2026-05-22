@@ -1,0 +1,7 @@
+mediapipe==0.10.14
+opencv-python==4.13.0.92
+xgboost==3.2.0
+scikit-learn==1.6.1
+joblib==1.5.3
+numpy==2.4.4
+pandas
