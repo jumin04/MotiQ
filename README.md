@@ -45,7 +45,7 @@
 ## 📁 파일 구조
 
 ```
-├── 최종.ipynb
+├── final.ipynb
 ├── realtime.py
 ├── requirements.txt
 └── README.md
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ## 🚀 사용 방법
 
 ### 1. 모델 학습 (Google Colab)
-`최종.ipynb`를 Colab에서 실행하여 모델을 학습하고 `.pkl` 파일을 다운로드합니다.
+`final.ipynb`를 Colab에서 실행하여 모델을 학습하고 `.pkl` 파일을 다운로드합니다.
 
 ### 2. 핸드폰 카메라 연결
 1. 핸드폰에 **DroidCam** 앱 설치
