@@ -72,6 +72,7 @@ pip install -r requirements.txt
 3. 같은 Wi-Fi에서 앱 실행 후 IP 주소로 연결
 
 ### 3. 실시간 분석 실행
+CMD(명령 프롬프트)를 열고 아래 명령어를 실행합니다.
 ```bash
 python realtime.py
 ```
